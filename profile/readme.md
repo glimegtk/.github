@@ -1,0 +1,1 @@
+Don't worry if all this is a little unclear. You don't need to understand OO programming in any detail to come to grips with GNOME GTK+. In fact, it's a painless way to learn the ideas and benefits behind OO programming while still in the comfort zone of C.
